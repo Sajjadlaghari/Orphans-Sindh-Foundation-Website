@@ -16,8 +16,9 @@ require('Naushahro Feroze/dbconnection/dbconnection.php');
             width: 100%;
             height: auto;
             background-color: #D3E7EE;
-          
         }
+
+        
 
         input:hover
         {
