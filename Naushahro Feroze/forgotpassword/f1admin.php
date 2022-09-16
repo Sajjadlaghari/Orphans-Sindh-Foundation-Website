@@ -35,9 +35,9 @@ $mail->SMTPSecure = "tls";
 //set port to connect smtp
 $mail->Port = "587";
 //set gmail user
-$mail->Username = "sajjadlaghari723@gmail.com";
+$mail->Username = "enter email";
 //set gmail password
-$mail->Password = "Sajjadjan1234";
+$mail->Password = "Enter Your Password";
 //set gmail subject
 $mail->Subject = "Reset Password of OSF";
 //set sender email
